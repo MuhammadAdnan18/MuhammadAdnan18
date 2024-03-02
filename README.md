@@ -2,7 +2,7 @@
 <h3 align="center">passionate about developing fullstack web apps</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/cM8Jo64umpCsynvK8" >
+<img align="right" alt="coding" width="400" src="[https://images.app.goo.gl/cM8Jo64umpCsynvK8](https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif)" >
 - 🔭 I’m currently working on **MERN stack**
 
 - 💬 Ask me about **react,mongoDB**
